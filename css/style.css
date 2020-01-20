@@ -3,6 +3,10 @@
     margin: 0;
 }
 h1 {
+     color: blue;
+     background: darkgreen;
+ }
+h1 {
     color: blue;
     background: darkgreen;
 }
